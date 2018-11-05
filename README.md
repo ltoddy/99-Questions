@@ -24,6 +24,9 @@
       <tr>
         <td><a href="src/Problem003.hs">Find the K'th element of a list. The first element in the list is number 1.</a></td>
       </tr>
+      <tr>
+        <td><a href="src/Problem004.hs">Find the number of elements of a list.</a></td>
+      </tr>
     <tbody>
   </table>
 </span>
