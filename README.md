@@ -27,6 +27,9 @@
       <tr>
         <td><a href="src/Problem004.hs">Find the number of elements of a list.</a></td>
       </tr>
+      <tr>
+        <td><a href="src/Problem005.hs">Reverse a list.</a></td>
+      </tr>
     <tbody>
   </table>
 </span>
