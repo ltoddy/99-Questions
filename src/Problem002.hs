@@ -10,5 +10,7 @@
 -- Prelude> myButLast ['a'..'z']
 -- 'y'
 
+module Problem002 (myButLast) where
+
 myButLast :: [a] -> a
 myButLast = last . init

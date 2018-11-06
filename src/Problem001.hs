@@ -10,7 +10,7 @@
 -- Prelude> myLast ['x','y','z']
 -- 'z'
 
-module Problem001 () where
+module Problem001 (myLast) where
 
 myLast :: [a] -> a
 myLast [] = error "No end for empty lists!"

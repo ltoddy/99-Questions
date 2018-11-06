@@ -8,5 +8,7 @@
 -- Prelude> myLength "Hello, world!"
 -- 13
 
+module Problem004 (myLength) where
+
 myLength :: [a] -> Int
 myLength = foldr (\ _ -> (+) 1) 0

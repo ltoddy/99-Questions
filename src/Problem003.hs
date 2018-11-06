@@ -12,7 +12,7 @@
 -- Prelude> elementAt "haskell" 5
 -- 'e'
 
-module Problem003 () where
+module Problem003 (elementAt) where
 
 elementAt :: (Eq a) => [a] -> Int -> a
 elementAt (x:_) 1 = x
