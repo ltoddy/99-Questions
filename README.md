@@ -33,6 +33,9 @@
       <tr>
         <td><a href="src/Problem006.hs">Find out whether a list is a palindrome. A palindrome can be read forward or backward.</a></td>
       </tr>
+      <tr>
+        <td><a href="src/Problem007.hs">Flatten a nested list structure.</a></td>
+      </tr>
     <tbody>
   </table>
 </span>
