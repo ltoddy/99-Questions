@@ -36,6 +36,9 @@
       <tr>
         <td><a href="src/Problem007.hs">Flatten a nested list structure.</a></td>
       </tr>
+      <tr>
+        <td><a href="src/Problem008.hs">Eliminate consecutive duplicates of list elements.</a></td>
+      </tr>
     <tbody>
   </table>
 </span>
