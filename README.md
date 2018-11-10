@@ -39,6 +39,9 @@
       <tr>
         <td><a href="src/Problem008.hs">Eliminate consecutive duplicates of list elements.</a></td>
       </tr>
+      <tr>
+        <td><a href="src/Problem009.hs">Pack consecutive duplicates of list elements into sublists. If a list contains repeated elements they should be placed in separate sublists.</a></td>
+      </tr>
     <tbody>
   </table>
 </span>
