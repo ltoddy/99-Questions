@@ -10,7 +10,7 @@
 -- encode "aaaabccaadeeee"
 -- [(4,'a'),(1,'b'),(2,'c'),(2,'a'),(1,'d'),(4,'e')]
 
-module Problem010 () where
+module Problem010 (encode) where
 
 encode :: Eq a => [a] -> [(Int, a)]
 encode []     = []
