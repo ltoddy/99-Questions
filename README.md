@@ -47,4 +47,17 @@
       </tr>
     <tbody>
   </table>
+
+  <table border="1" align="right">
+    <thead>
+      <tr>
+        <th>Questions 11 to 20: Lists, continued</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="src/Problem011.hs">Modified run-length encoding.</a></td>
+      </tr>
+    <tbody>
+  </table>
 </span>
