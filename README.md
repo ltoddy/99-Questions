@@ -7,7 +7,7 @@
 
 ### 题目列表:
 
-<span>
+<span style="display: flex; flex-direction: row;">
   <table border="1" align="left">
     <thead>
       <tr>
@@ -57,6 +57,9 @@
     <tbody>
       <tr>
         <td><a href="src/Problem011.hs">Modified run-length encoding.</a></td>
+      </tr>
+      <tr>
+        <td><a href="src/Problem012.hs">Decode a run-length encoded list.</a></td>
       </tr>
     <tbody>
   </table>
