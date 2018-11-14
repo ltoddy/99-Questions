@@ -7,60 +7,23 @@
 
 ### 题目列表:
 
-<span style="display: flex; flex-direction: row;">
-  <table border="1" align="left">
-    <thead>
-      <tr>
-        <th>Questions 1 to 10: Lists</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="src/Problem001.hs">Find the last element of a list.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem002.hs">Find the last but one element of a list.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem003.hs">Find the K'th element of a list. The first element in the list is number 1.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem004.hs">Find the number of elements of a list.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem005.hs">Reverse a list.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem006.hs">Find out whether a list is a palindrome. A palindrome can be read forward or backward.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem007.hs">Flatten a nested list structure.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem008.hs">Eliminate consecutive duplicates of list elements.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem009.hs">Pack consecutive duplicates of list elements into sublists. If a list contains repeated elements they should be placed in separate sublists.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem010.hs">Run-length encoding of a list. Use the result of problem P09 to implement the so-called run-length encoding data compression method. Consecutive duplicates of elements are encoded as lists (N E) where N is the number of duplicates of the element E.</a></td>
-      </tr>
-    <tbody>
-  </table>
+|Questions 1 to 10: Lists|
+|------------------------|
+|[Find the last element of a list.](src/Problem001.hs)|
+|[Find the last but one element of a list.](src/Problem002.hs)|
+|[Find the K'th element of a list. The first element in the list is number 1.](src/Problem003.hs)|
+|[Find the number of elements of a list.](src/Problem004.hs)|
+|[Reverse a list.](src/Problem005.hs)|
+|[Find out whether a list is a palindrome. A palindrome can be read forward or backward.](src/Problem006.hs)|
+|[Flatten a nested list structure.](src/Problem007.hs)|
+|[Eliminate consecutive duplicates of list elements.](src/Problem008.hs)|
+|[Pack consecutive duplicates of list elements into sublists. If a list contains repeated elements they should be placed in separate sublists.](src/Problem009.hs)|
+|[Run-length encoding of a list. Use the result of problem P09 to implement the so-called run-length encoding data compression method. Consecutive duplicates of elements are encoded as lists (N E) where N is the number of duplicates of the element E.](src/Problem010.hs)|
 
-  <table border="1" align="right">
-    <thead>
-      <tr>
-        <th>Questions 11 to 20: Lists, continued</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="src/Problem011.hs">Modified run-length encoding.</a></td>
-      </tr>
-      <tr>
-        <td><a href="src/Problem012.hs">Decode a run-length encoded list.</a></td>
-      </tr>
-    <tbody>
-  </table>
-</span>
+------------------------------------------------------------------------------------------------------------------------
+
+|Questions 11 to 20: Lists, continued|
+|------------------------------------|
+|[Modified run-length encoding.](src/Problem011.hs)|
+|[Decode a run-length encoded list.](src/Problem012.hs)|
+|[Run-length encoding of a list (direct solution).](src/Problem013.hs)|
