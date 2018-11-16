@@ -28,3 +28,4 @@
 |[Decode a run-length encoded list.](src/Problem012.hs)|
 |[Run-length encoding of a list (direct solution).](src/Problem013.hs)|
 |[Duplicate the elements of a list.](src/Problem014.hs)|
+|[Replicate the elements of a list a given number of times.](src/Problem015.hs)|
