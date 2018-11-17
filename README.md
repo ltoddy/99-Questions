@@ -29,3 +29,4 @@
 |[Run-length encoding of a list (direct solution).](src/Problem013.hs)|
 |[Duplicate the elements of a list.](src/Problem014.hs)|
 |[Replicate the elements of a list a given number of times.](src/Problem015.hs)|
+|[Drop every N'th element from a list.](src/Problem016.hs)|
