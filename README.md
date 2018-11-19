@@ -31,3 +31,4 @@
 |[Replicate the elements of a list a given number of times.](src/Problem015.hs)|
 |[Drop every N'th element from a list.](src/Problem016.hs)|
 |[Split a list into two parts; the length of the first part is given.](src/Problem017.hs)|
+|[Extract a slice from a list.](src/Problem018.hs)|
