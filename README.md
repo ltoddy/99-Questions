@@ -34,3 +34,9 @@
 |[Extract a slice from a list.](src/Problem018.hs)|
 |[Rotate a list N places to the left.](src/Problem019.hs)|
 |[Remove the K'th element from a list.](src/Problem020.hs)|
+
+------------------------------------------------------------------------------------------------------------------------
+
+|Questions 21 to 28: Lists again|
+|-------------------------------|
+|[Insert an element at a given position into a list.](src/Problem021.hs)|
