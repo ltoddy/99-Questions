@@ -40,3 +40,4 @@
 |Questions 21 to 28: Lists again|
 |-------------------------------|
 |[Insert an element at a given position into a list.](src/Problem021.hs)|
+|[Create a list containing all integers within a given range.](src/Problem022.hs)|
