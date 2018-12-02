@@ -42,3 +42,4 @@
 |[Insert an element at a given position into a list.](src/Problem021.hs)|
 |[Create a list containing all integers within a given range.](src/Problem022.hs)|
 |[Extract a given number of randomly selected elements from a list.](src/Problem023.hs)|
+|[Lotto: Draw N different random numbers from the set 1..M.](src/Problem024.hs)|
