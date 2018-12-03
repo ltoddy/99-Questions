@@ -12,7 +12,7 @@
 -- *Main> split "abcdefghik" 3
 -- ("abc", "defghik")
 
-module Problem017 () where
+module Problem017 (split) where
 
 split :: [a] -> Int -> ([a], [a])
 split = flip splitAt
