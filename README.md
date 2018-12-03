@@ -43,3 +43,4 @@
 |[Create a list containing all integers within a given range.](src/Problem022.hs)|
 |[Extract a given number of randomly selected elements from a list.](src/Problem023.hs)|
 |[Lotto: Draw N different random numbers from the set 1..M.](src/Problem024.hs)|
+|[Generate a random permutation of the elements of a list.](src/Problem025.hs)|
