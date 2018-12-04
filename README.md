@@ -44,3 +44,4 @@
 |[Extract a given number of randomly selected elements from a list.](src/Problem023.hs)|
 |[Lotto: Draw N different random numbers from the set 1..M.](src/Problem024.hs)|
 |[Generate a random permutation of the elements of a list.](src/Problem025.hs)|
+|[Generate the combinations of K distinct objects chosen from the N elements of a list](src/Problem026.hs)|
