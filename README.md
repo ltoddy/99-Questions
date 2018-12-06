@@ -45,3 +45,4 @@
 |[Lotto: Draw N different random numbers from the set 1..M.](src/Problem024.hs)|
 |[Generate a random permutation of the elements of a list.](src/Problem025.hs)|
 |[Generate the combinations of K distinct objects chosen from the N elements of a list](src/Problem026.hs)|
+|[Group the elements of a set into disjoint subsets.](src/Problem027.hs)|
