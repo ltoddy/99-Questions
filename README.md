@@ -46,3 +46,4 @@
 |[Generate a random permutation of the elements of a list.](src/Problem025.hs)|
 |[Generate the combinations of K distinct objects chosen from the N elements of a list](src/Problem026.hs)|
 |[Group the elements of a set into disjoint subsets.](src/Problem027.hs)|
+|[Sorting a list of lists according to length of sublists](src/Problem028.hs)|
