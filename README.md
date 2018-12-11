@@ -47,3 +47,7 @@
 |[Generate the combinations of K distinct objects chosen from the N elements of a list](src/Problem026.hs)|
 |[Group the elements of a set into disjoint subsets.](src/Problem027.hs)|
 |[Sorting a list of lists according to length of sublists](src/Problem028.hs)|
+
+|Questions 31 to 41: Arithmetic|
+|------------------------------|
+|[Determine whether a given integer number is prime.](src/Problem031.hs)|
