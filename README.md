@@ -51,3 +51,4 @@
 |Questions 31 to 41: Arithmetic|
 |------------------------------|
 |[Determine whether a given integer number is prime.](src/Problem031.hs)|
+|[Determine the greatest common divisor of two positive integer numbers.](src/Problem032.hs)|
