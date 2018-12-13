@@ -52,3 +52,4 @@
 |------------------------------|
 |[Determine whether a given integer number is prime.](src/Problem031.hs)|
 |[Determine the greatest common divisor of two positive integer numbers.](src/Problem032.hs)|
+|[ Determine whether two positive integer numbers are coprime. Two numbers are coprime if their greatest common divisor equals 1.](src/Problem033.hs)|
