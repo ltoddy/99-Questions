@@ -54,3 +54,4 @@
 |[Determine the greatest common divisor of two positive integer numbers.](src/Problem032.hs)|
 |[ Determine whether two positive integer numbers are coprime. Two numbers are coprime if their greatest common divisor equals 1.](src/Problem033.hs)|
 |[Calculate Euler's totient function phi(m).](src/Problem034.hs)|
+|[Determine the prime factors of a given positive integer. Construct a flat list containing the prime factors in ascending order.](src/Problem035.hs)|
