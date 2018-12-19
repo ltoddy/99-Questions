@@ -56,3 +56,4 @@
 |[Calculate Euler's totient function phi(m).](src/Problem034.hs)|
 |[Determine the prime factors of a given positive integer. Construct a flat list containing the prime factors in ascending order.](src/Problem035.hs)|
 |[Determine the prime factors of a given positive integer.](src/Problem036.hs)|
+|[Calculate Euler's totient function phi(m) (improved).](src/Problem037.hs)|
