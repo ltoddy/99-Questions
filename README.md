@@ -58,3 +58,4 @@
 |[Determine the prime factors of a given positive integer.](src/Problem036.hs)|
 |[Calculate Euler's totient function phi(m) (improved).](src/Problem037.hs)|
 |[A list of prime numbers.](src/Problem039.hs)|
+|[Goldbach's conjecture.](src/Problem040.hs)|
