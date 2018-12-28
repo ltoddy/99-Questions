@@ -60,3 +60,7 @@
 |[A list of prime numbers.](src/Problem039.hs)|
 |[Goldbach's conjecture.](src/Problem040.hs)|
 |[Given a range of integers by its lower and upper limit, print a list of all even numbers and their Goldbach composition.](src/Problem041.hs)|
+
+|Questions 46 to 50: Logic and codes|
+|-----------------------------------|
+|[Define predicates and/2, or/2, nand/2, nor/2, xor/2, impl/2 and equ/2 (for logical equivalence) which succeed or fail according to the result of their respective operations; e.g. and(A,B) will succeed, if and only if both A and B succeed.](src/Problem042.hs)|
