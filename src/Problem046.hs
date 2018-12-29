@@ -20,7 +20,7 @@
 -- False True False
 -- False False False
 
-module Problem042 (table, and', or', nand', nor', xor', impl', equ') where
+module Problem046 (table, and', or', nand', nor', xor', impl', equ') where
 
 table :: (Bool -> Bool -> Bool) -> IO ()
 table f = putStrLn $ concatMap (++ "\n" )
